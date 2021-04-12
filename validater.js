@@ -1,3 +1,8 @@
+function myFunction() {
+    alert("I am an alert box!");
+  }
+
+
 
 let input_case = document.getElementById('input-case');
 document.querySelector('#div-case-buttons > button:nth-child(1)').addEventListener('click', function() {
